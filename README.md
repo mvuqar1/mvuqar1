@@ -14,25 +14,27 @@ In my free time, I watch web development video tutorials to improve my skills an
 
 ### Programming Languages:
 
-Skills:
-Programming Languages:
-- <button style="background-color: blue; color: white;">HTML</button>
-- <button style="background-color: blue; color: white;">CSS</button>
-- <button style="background-color: blue; color: white;">JavaScript</button>
+[![HTML](https://img.shields.io/badge/HTML-blue)]()
+[![CSS](https://img.shields.io/badge/CSS-blue)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-blue)]()
 
-Frameworks:
-- <button style="background-color: blue; color: white;">React</button>
-- <button style="background-color: blue; color: white;">Redux</button>
+### Frameworks :
 
-Libraries:
-- <button style="background-color: blue; color: white;">Node.js</button>
-- <button style="background-color: blue; color: white;">Express</button>
+[![React](https://img.shields.io/badge/React-blue)]()
+[![Redux](https://img.shields.io/badge/Redux-blue)]()
 
-Databases:
-- <button style="background-color: blue; color: white;">MySQL</button>
+### Libraries:
 
-Tools and Technologies:
-- <button style="background-color: blue; color: white;">REST API</button>
+[![Node.js](https://img.shields.io/badge/Node.js-blue)]()
+[![Express](https://img.shields.io/badge/Express-blue)]()
+
+### Databases:
+
+[![MySQL](https://img.shields.io/badge/MySQL-blue)]()
+
+### Tools and Technologies:
+
+[![REST API](https://img.shields.io/badge/REST%20API-blue)]()
 
 ## Education:
 
