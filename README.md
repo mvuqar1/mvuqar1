@@ -1,4 +1,4 @@
-# Hi there ! 👋 I'm Vugar, a Frontend Developer.
+# Hi there! 👋 I'm Vugar, a Frontend Developer.
 
 ![Vugar Mammadov](./images/vugar-mammadov-black-background.jpg)
 
@@ -14,24 +14,27 @@ In my free time, I watch web development video tutorials to improve my skills an
 
 ### Programming Languages:
 
-[![HTML](https://img.shields.io/badge/HTML-blue)]()
-[![CSS](https://img.shields.io/badge/CSS-blue)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-blue)]()
+![HTML](./images/html5-icon.svg)
+![CSS](./images/css3-icon.svg)
+![JavaScript](./images/javascript-icon.svg)
 
-### Frameworks and Libraries:
+### Frameworks:
 
-[![React](./icons/react.png)]()
-[![Redux](./icons/redux.png)]()
-[![Node.js](./icons/nodejs.png)]()
-[![Express](./icons/express.png)]()
+![React](./images/react-icon.svg)
+![Redux](./images/redux-icon.svg)
+
+### Libraries:
+
+![Node.js](./images/nodejs-icon.svg)
+![Express](./images/express-icon.svg)
 
 ### Databases:
 
-[![MySQL](https://img.shields.io/badge/MySQL-blue)]()
+![MySQL](./images/mysql-icon.svg)
 
 ### Tools and Technologies:
 
-[![REST API](https://img.shields.io/badge/REST%20API-blue)]()
+![REST API](./images/rest-api-icon.svg)
 
 ## Education:
 
