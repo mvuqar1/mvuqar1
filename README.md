@@ -1,5 +1,6 @@
+# Hi there! I'm Vugar, a Frontend Developer.
 
-# Hi there 👋 I'm Vugar, a Frontend Developer.
+![Vugar Mammadov](./images/vugar-mammadov-black-background.jpg)
 
 ## About Me
 
@@ -9,24 +10,24 @@ I'm a Frontend Developer with experience in HTML, CSS, JavaScript, React, Redux,
 
 ### Programming Languages:
 
-[![HTML](https://img.shields.io/badge/HTML-Expert-blue)]()
-[![CSS](https://img.shields.io/badge/CSS-Expert-blue)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue)]()
+[![HTML](https://img.shields.io/badge/HTML-blue)]()
+[![CSS](https://img.shields.io/badge/CSS-blue)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-blue)]()
 
 ### Frameworks and Libraries:
 
-[![React](https://img.shields.io/badge/React-Expert-blue)]()
-[![Redux](https://img.shields.io/badge/Redux-Expert-blue)]()
-[![Node.js](https://img.shields.io/badge/Node.js-Expert-blue)]()
-[![Express](https://img.shields.io/badge/Express-Expert-blue)]()
+[![React](https://img.shields.io/badge/React-blue)]()
+[![Redux](https://img.shields.io/badge/Redux-blue)]()
+[![Node.js](https://img.shields.io/badge/Node.js-blue)]()
+[![Express](https://img.shields.io/badge/Express-blue)]()
 
 ### Databases:
 
-[![MySQL](https://img.shields.io/badge/MySQL-Expert-blue)]()
+[![MySQL](https://img.shields.io/badge/MySQL-blue)]()
 
 ### Tools and Technologies:
 
-[![REST API](https://img.shields.io/badge/REST%20API-Expert-blue)]()
+[![REST API](https://img.shields.io/badge/REST%20API-blue)]()
 
 ## Education:
 
@@ -41,4 +42,3 @@ I'm a Frontend Developer with experience in HTML, CSS, JavaScript, React, Redux,
 - Email: vuqar.5100@mail.ru
 - LinkedIn: https://www.linkedin.com/in/vugar-mammadov-888116261/
 - GitHub: https://github.com/mvuqar1
-- Other contacts: [list any other ways to contact you]
