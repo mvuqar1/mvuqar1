@@ -42,7 +42,7 @@ In my free time, I watch web development video tutorials to improve my skills an
 
 ## Experience and Courses:
 
-- Udemy courses
+- Udemy courses (https://img.shields.io/badge/Udemy-black?style=flat-square&logo=udemy&color=EC5252)
 
 ## Contacts:
 
