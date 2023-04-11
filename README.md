@@ -14,27 +14,25 @@ In my free time, I watch web development video tutorials to improve my skills an
 
 ### Programming Languages:
 
-![HTML](./images/html5-icon.svg)
-![CSS](./images/css3-icon.svg)
-![JavaScript](./images/javascript-icon.svg)
+Skills:
+Programming Languages:
+- <button style="background-color: blue; color: white;">HTML</button>
+- <button style="background-color: blue; color: white;">CSS</button>
+- <button style="background-color: blue; color: white;">JavaScript</button>
 
-### Frameworks:
+Frameworks:
+- <button style="background-color: blue; color: white;">React</button>
+- <button style="background-color: blue; color: white;">Redux</button>
 
-![React](./images/react-icon.svg)
-![Redux](./images/redux-icon.svg)
+Libraries:
+- <button style="background-color: blue; color: white;">Node.js</button>
+- <button style="background-color: blue; color: white;">Express</button>
 
-### Libraries:
+Databases:
+- <button style="background-color: blue; color: white;">MySQL</button>
 
-![Node.js](./images/nodejs-icon.svg)
-![Express](./images/express-icon.svg)
-
-### Databases:
-
-![MySQL](./images/mysql-icon.svg)
-
-### Tools and Technologies:
-
-![REST API](./images/rest-api-icon.svg)
+Tools and Technologies:
+- <button style="background-color: blue; color: white;">REST API</button>
 
 ## Education:
 
