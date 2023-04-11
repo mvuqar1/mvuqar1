@@ -1,4 +1,4 @@
-# Hi there! I'm Vugar, a Frontend Developer.
+# Hi there ! 👋 I'm Vugar, a Frontend Developer.
 
 ![Vugar Mammadov](./images/vugar-mammadov-black-background.jpg)
 
