@@ -4,7 +4,11 @@
 
 ## About Me
 
-I'm a Frontend Developer with experience in HTML, CSS, JavaScript, React, Redux, Node.js, Express, and MySQL. I'm committed to continuously developing and improving my skills to stay up-to-date with the latest trends and technologies in web development.
+Hello, my name is Vugar, and I am a frontend developer with experience in HTML, CSS, JavaScript, React, Redux, Node.js, Express, and MySQL. I constantly strive to develop my skills to stay up-to-date with the latest trends and technologies in web development.
+
+I specialize in creating beautiful and user-friendly web applications and enjoy working on both individual and team projects. My goal is always to provide high-quality work that exceeds expectations.
+
+In my free time, I watch web development video tutorials to improve my skills and knowledge.
 
 ## Skills:
 
@@ -16,10 +20,10 @@ I'm a Frontend Developer with experience in HTML, CSS, JavaScript, React, Redux,
 
 ### Frameworks and Libraries:
 
-[![React](https://img.shields.io/badge/React-blue)]()
-[![Redux](https://img.shields.io/badge/Redux-blue)]()
-[![Node.js](https://img.shields.io/badge/Node.js-blue)]()
-[![Express](https://img.shields.io/badge/Express-blue)]()
+[![React](./icons/react.png)]()
+[![Redux](./icons/redux.png)]()
+[![Node.js](./icons/nodejs.png)]()
+[![Express](./icons/express.png)]()
 
 ### Databases:
 
