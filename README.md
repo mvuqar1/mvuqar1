@@ -4,48 +4,48 @@
 
 ## About Me
 
-Hello, my name is Vugar, and I am a frontend developer with experience in HTML, CSS, JavaScript, React, Redux, Node.js, Express, and MySQL. I constantly strive to develop my skills to stay up-to-date with the latest trends and technologies in web development.
+Hello, my name is Vugar, and I am a frontend developer with experience in HTML, CSS, JavaScript, React, Redux, Node.js, Express, and MySQL. I am dedicated to continually improving my skills to stay up-to-date with the latest trends and technologies in web development.
 
-I specialize in creating beautiful and user-friendly web applications and enjoy working on both individual and team projects. My goal is always to provide high-quality work that exceeds expectations.
+I specialize in crafting beautiful and user-friendly web applications, and I enjoy working on both individual and team projects. My goal is always to deliver high-quality work that surpasses expectations.
 
-In my free time, I watch web development video tutorials to improve my skills and knowledge.
+In my free time, I avidly watch web development video tutorials to enhance my skills and knowledge.
 
 ## Skills:
 
 ### Programming Languages:
 
- ![HTML](https://img.shields.io/badge/HTML-blue)
- ![CSS](https://img.shields.io/badge/CSS-blue)
- ![JavaScript](https://img.shields.io/badge/JavaScript-blue)
+![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript)
 
-### Frameworks :
+### Frameworks:
 
- ![React](https://img.shields.io/badge/React-blue)
- ![Redux](https://img.shields.io/badge/Redux-blue)
- ![Material UI](https://img.shields.io/badge/Material%20UI-blue)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
- ![Ant Design](https://img.shields.io/badge/Ant%20Design-blue)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=redux)
+![Material UI](https://img.shields.io/badge/Material%20UI-blue?style=for-the-badge&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-blue?style=for-the-badge&logo=ant-design)
 
 ### Libraries:
 
- ![Node.js](https://img.shields.io/badge/Node.js-blue)
- ![Express](https://img.shields.io/badge/Express-blue)
+![Node.js](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=express)
 
 ### Databases:
 
- ![MySQL](https://img.shields.io/badge/MySQL-blue)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ### Tools and Technologies:
 
- ![REST API](https://img.shields.io/badge/REST%20API-blue)
+![REST API](https://img.shields.io/badge/REST%20API-blue?style=for-the-badge&logo=api)
 
 ## Education:
 
- IT Academy, Front-end Developer, 2023
+IT Academy, Front-end Developer, 2023
 
 ## Experience and Courses:
 
- Udemy courses ![Udemy course badge](https://img.shields.io/badge/Udemy-black?style=flat-square&logo=udemy&color=EC5252)
+Udemy courses ![Udemy course badge](https://img.shields.io/badge/Udemy-black?style=for-the-badge&logo=udemy&color=EC5252)
 
 ## Contacts:
 
