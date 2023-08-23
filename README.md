@@ -12,21 +12,21 @@ In my free time, I watch web development video tutorials to improve my skills an
 
 ## Skills:
 
-### Programming Languages:
-
- ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript)
-
 ### Markup Languages:
 
  ![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square&logo=html5)
 
+### Programming Languages:
+
+ ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript)
+
 ### Styling Frameworks:
 
  ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
- ![Material UI](https://img.shields.io/badge/Material%20UI-blue?style=flat-square&logo=material-ui)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=flat-square&logo=bootstrap)
  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?style=flat-square&logo=tailwind-css)
  ![Ant Design](https://img.shields.io/badge/Ant%20Design-blue?style=flat-square&logo=ant-design)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=flat-square&logo=bootstrap)
+ ![Material UI](https://img.shields.io/badge/Material%20UI-blue?style=flat-square&logo=material-ui)
 
 ### Frontend Frameworks:
 
