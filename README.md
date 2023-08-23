@@ -18,34 +18,34 @@ In my free time, I watch web development video tutorials to improve my skills an
 
 ### Markup Languages:
 
-- ![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square&logo=html5)
-- ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
+ ![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square&logo=html5)
+ ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
 
 ### Styling Frameworks:
 
-- ![Material UI](https://img.shields.io/badge/Material%20UI-blue?style=flat-square&logo=material-ui)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=flat-square&logo=bootstrap)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?style=flat-square&logo=tailwind-css)
-- ![Ant Design](https://img.shields.io/badge/Ant%20Design-blue?style=flat-square&logo=ant-design)
+ ![Material UI](https://img.shields.io/badge/Material%20UI-blue?style=flat-square&logo=material-ui)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=flat-square&logo=bootstrap)
+ ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?style=flat-square&logo=tailwind-css)
+ ![Ant Design](https://img.shields.io/badge/Ant%20Design-blue?style=flat-square&logo=ant-design)
 
 ### Frontend Frameworks:
 
-- ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
-- ![Redux](https://img.shields.io/badge/Redux-blue?style=flat-square&logo=redux)
+ ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
+ ![Redux](https://img.shields.io/badge/Redux-blue?style=flat-square&logo=redux)
 
 ### Libraries:
 
-- ![Node.js](https://img.shields.io/badge/Node.js-blue?style=flat-square&logo=node.js)
-- ![Express](https://img.shields.io/badge/Express-blue?style=flat-square&logo=express)
+ ![Node.js](https://img.shields.io/badge/Node.js-blue?style=flat-square&logo=node.js)
+ ![Express](https://img.shields.io/badge/Express-blue?style=flat-square&logo=express)
 
 ### Databases:
 
-- ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=mongodb)
+ ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=mongodb)
 
 ### Tools and Technologies:
 
-- ![REST API](https://img.shields.io/badge/REST%20API-blue?style=flat-square&logo=api)
+ ![REST API](https://img.shields.io/badge/REST%20API-blue?style=flat-square&logo=api)
 
 ## Education:
 
