@@ -14,31 +14,31 @@ In my free time, I avidly watch web development video tutorials to enhance my sk
 
 ### Programming Languages:
 
-![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript)
 
 ### Frameworks:
 
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=redux)
-![Material UI](https://img.shields.io/badge/Material%20UI-blue?style=for-the-badge&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-blue?style=for-the-badge&logo=ant-design)
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/Redux-blue?style=flat-square&logo=redux)
+![Material UI](https://img.shields.io/badge/Material%20UI-blue?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=flat-square&logo=bootstrap)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-blue?style=flat-square&logo=ant-design)
 
 ### Libraries:
 
-![Node.js](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-blue?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-blue?style=flat-square&logo=express)
 
 ### Databases:
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=flat-square&logo=mongodb)
 
 ### Tools and Technologies:
 
-![REST API](https://img.shields.io/badge/REST%20API-blue?style=for-the-badge&logo=api)
+![REST API](https://img.shields.io/badge/REST%20API-blue?style=flat-square&logo=api)
 
 ## Education:
 
@@ -46,7 +46,7 @@ IT Academy, Front-end Developer, 2023
 
 ## Experience and Courses:
 
-Udemy courses ![Udemy course badge](https://img.shields.io/badge/Udemy-black?style=for-the-badge&logo=udemy&color=EC5252)
+Udemy courses ![Udemy course badge](https://img.shields.io/badge/Udemy-black?style=flat-square&logo=udemy&color=EC5252)
 
 ## Contacts:
 
