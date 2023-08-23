@@ -1,50 +1,53 @@
-# Hi there! 👋 I'm Vugar, a Frontend Developer.
+# Привет! 👋 Я Вугар, Frontend-разработчик.
 
-![Vugar Mammadov](./images/vugar-mammadov-black-background.jpg)
+![Вугар Мамедов](./images/vugar-mammadov-black-background.jpg)
 
-## About Me
+## Обо мне
 
-Hello, my name is Vugar, and I am a frontend developer with experience in HTML, CSS, JavaScript, React, Redux, Node.js, Express, and MySQL. I constantly strive to develop my skills to stay up-to-date with the latest trends and technologies in web development.
+Привет, меня зовут Вугар, и я frontend-разработчик с опытом работы в HTML, CSS, JavaScript, React, Redux, Node.js, Express и MongoDB. Я постоянно стремлюсь развивать свои навыки, чтобы быть в курсе последних трендов и технологий в веб-разработке.
 
-I specialize in creating beautiful and user-friendly web applications and enjoy working on both individual and team projects. My goal is always to provide high-quality work that exceeds expectations.
+Я специализируюсь на создании красивых и удобных веб-приложений и люблю работать как над индивидуальными, так и над командными проектами. Моя цель всегда предоставлять качественную работу, превосходящую ожидания.
 
-In my free time, I watch web development video tutorials to improve my skills and knowledge.
+В свободное время я смотрю видеоуроки по веб-разработке, чтобы улучшить свои навыки и знания.
 
-## Skills:
+## Навыки:
 
-### Programming Languages:
+### Языки программирования:
 
 [![HTML](https://img.shields.io/badge/HTML-blue)]()
 [![CSS](https://img.shields.io/badge/CSS-blue)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-blue)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue)]()
 
-### Frameworks :
+### Фреймворки:
 
 [![React](https://img.shields.io/badge/React-blue)]()
 [![Redux](https://img.shields.io/badge/Redux-blue)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue)]()
 
-### Libraries:
+### Библиотеки:
 
 [![Node.js](https://img.shields.io/badge/Node.js-blue)]()
 [![Express](https://img.shields.io/badge/Express-blue)]()
 
-### Databases:
+### Базы данных:
 
+[![MongoDB](https://img.shields.io/badge/MongoDB-blue)]()
 [![MySQL](https://img.shields.io/badge/MySQL-blue)]()
 
-### Tools and Technologies:
+### Инструменты и технологии:
 
 [![REST API](https://img.shields.io/badge/REST%20API-blue)]()
 
-## Education:
+## Образование:
 
-- IT Academy, Front-end Developer, 2023
+- IT Academy, Frontend-разработчик, 2023
 
-## Experience and Courses:
+## Опыт и Курсы:
 
-- Udemy courses ![Udemy course badge](https://img.shields.io/badge/Udemy-black?style=flat-square&logo=udemy&color=EC5252)
+- Курсы на Udemy ![Udemy course badge](https://img.shields.io/badge/Udemy-black?style=flat-square&logo=udemy&color=EC5252)
 
-## Contacts:
+## Контакты:
 
 - Email: vuqar.5100@mail.ru
 - LinkedIn: https://www.linkedin.com/in/vugar-mammadov-888116261/
