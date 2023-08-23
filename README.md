@@ -14,38 +14,38 @@ In my free time, I watch web development video tutorials to improve my skills an
 
 ### Programming Languages:
 
-- ![HTML](https://img.shields.io/badge/HTML-blue)
-- ![CSS](https://img.shields.io/badge/CSS-blue)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-blue)
+ ![HTML](https://img.shields.io/badge/HTML-blue)
+ ![CSS](https://img.shields.io/badge/CSS-blue)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-blue)
 
 ### Frameworks :
 
-- ![React](https://img.shields.io/badge/React-blue)
-- ![Redux](https://img.shields.io/badge/Redux-blue)
-- ![Material UI](https://img.shields.io/badge/Material%20UI-blue)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
-- ![Ant Design](https://img.shields.io/badge/Ant%20Design-blue)
+ ![React](https://img.shields.io/badge/React-blue)
+ ![Redux](https://img.shields.io/badge/Redux-blue)
+ ![Material UI](https://img.shields.io/badge/Material%20UI-blue)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
+ ![Ant Design](https://img.shields.io/badge/Ant%20Design-blue)
 
 ### Libraries:
 
-- ![Node.js](https://img.shields.io/badge/Node.js-blue)
-- ![Express](https://img.shields.io/badge/Express-blue)
+ ![Node.js](https://img.shields.io/badge/Node.js-blue)
+ ![Express](https://img.shields.io/badge/Express-blue)
 
 ### Databases:
 
-- ![MySQL](https://img.shields.io/badge/MySQL-blue)
+ ![MySQL](https://img.shields.io/badge/MySQL-blue)
 
 ### Tools and Technologies:
 
-- ![REST API](https://img.shields.io/badge/REST%20API-blue)
+ ![REST API](https://img.shields.io/badge/REST%20API-blue)
 
 ## Education:
 
-- IT Academy, Front-end Developer, 2023
+ IT Academy, Front-end Developer, 2023
 
 ## Experience and Courses:
 
-- Udemy courses ![Udemy course badge](https://img.shields.io/badge/Udemy-black?style=flat-square&logo=udemy&color=EC5252)
+ Udemy courses ![Udemy course badge](https://img.shields.io/badge/Udemy-black?style=flat-square&logo=udemy&color=EC5252)
 
 ## Contacts:
 
