@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello, my name is Vugar, and I am a frontend developer with experience in HTML, CSS, JavaScript, React, Redux, Node.js, Express, and MongoDB. I constantly strive to develop my skills to stay up-to-date with the latest trends and technologies in web development.
+Hello, my name is Vugar, and I am a frontend developer with experience in HTML, CSS, JavaScript, React, Redux, Node.js, Express, and MySQL. I constantly strive to develop my skills to stay up-to-date with the latest trends and technologies in web development.
 
 I specialize in creating beautiful and user-friendly web applications and enjoy working on both individual and team projects. My goal is always to provide high-quality work that exceeds expectations.
 
@@ -14,36 +14,34 @@ In my free time, I watch web development video tutorials to improve my skills an
 
 ### Programming Languages:
 
-[![HTML](https://img.shields.io/badge/HTML-blue)]()
-[![CSS](https://img.shields.io/badge/CSS-blue)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-blue)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue)]()
+- ![HTML](https://img.shields.io/badge/HTML-blue)
+- ![CSS](https://img.shields.io/badge/CSS-blue)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-blue)
 
-### Frameworks:
+### Frameworks :
 
-[![React](https://img.shields.io/badge/React-blue)]()
-[![Redux](https://img.shields.io/badge/Redux-blue)]()
+- ![React](https://img.shields.io/badge/React-blue)
+- ![Redux](https://img.shields.io/badge/Redux-blue)
+- ![Material UI](https://img.shields.io/badge/Material%20UI-blue)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
+- ![Ant Design](https://img.shields.io/badge/Ant%20Design-blue)
 
 ### Libraries:
 
-[![Node.js](https://img.shields.io/badge/Node.js-blue)]()
-[![Express](https://img.shields.io/badge/Express-blue)]()
+- ![Node.js](https://img.shields.io/badge/Node.js-blue)
+- ![Express](https://img.shields.io/badge/Express-blue)
 
 ### Databases:
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-blue)]()
-[![MySQL](https://img.shields.io/badge/MySQL-blue)]()
+- ![MySQL](https://img.shields.io/badge/MySQL-blue)
 
-## Tools and Technologies:
+### Tools and Technologies:
 
-[![REST API](https://img.shields.io/badge/REST%20API-blue)]()
-[![Material UI](https://img.shields.io/badge/Material%20UI-blue)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)]()
-[![Ant Design](https://img.shields.io/badge/Ant%20Design-blue)]()
+- ![REST API](https://img.shields.io/badge/REST%20API-blue)
 
 ## Education:
 
-- IT Academy, Frontend Developer, 2023
+- IT Academy, Front-end Developer, 2023
 
 ## Experience and Courses:
 
@@ -53,4 +51,5 @@ In my free time, I watch web development video tutorials to improve my skills an
 
 - Email: vuqar.5100@mail.ru
 - LinkedIn: [https://www.linkedin.com/in/vugarmammadov93/](https://www.linkedin.com/in/vugarmammadov93/)
-- GitHub: https://github.com/mvuqar1
+- GitHub: [https://github.com/mvuqar1](https://github.com/mvuqar1)
+- Portfolio: [https://portfolio-mvuqar1.netlify.app/](https://portfolio-mvuqar1.netlify.app/)
