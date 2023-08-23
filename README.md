@@ -14,7 +14,7 @@ In my free time, I watch web development video tutorials to improve my skills an
 
 ### Programming Languages:
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript)
 
 ### Markup Languages:
 
