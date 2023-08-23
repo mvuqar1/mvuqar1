@@ -25,6 +25,7 @@ In my free time, I avidly watch web development video tutorials to enhance my sk
 ![Material UI](https://img.shields.io/badge/Material%20UI-blue?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=flat-square&logo=bootstrap)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-blue?style=flat-square&logo=ant-design)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?style=flat-square&logo=tailwind-css)
 
 ### Libraries:
 
