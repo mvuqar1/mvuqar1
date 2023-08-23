@@ -19,10 +19,10 @@ In my free time, I watch web development video tutorials to improve my skills an
 ### Markup Languages:
 
  ![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square&logo=html5)
- ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
 
 ### Styling Frameworks:
 
+ ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
  ![Material UI](https://img.shields.io/badge/Material%20UI-blue?style=flat-square&logo=material-ui)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=flat-square&logo=bootstrap)
  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?style=flat-square&logo=tailwind-css)
