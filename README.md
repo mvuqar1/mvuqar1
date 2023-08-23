@@ -34,6 +34,7 @@ In my free time, I avidly watch web development video tutorials to enhance my sk
 ### Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb)
 
 ### Tools and Technologies:
 
